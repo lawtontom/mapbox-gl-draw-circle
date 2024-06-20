@@ -1,4 +1,3 @@
-console.log("index.js");
 export const CircleMode = require("./lib/modes/CircleMode");
 export const DragCircleMode = require("./lib/modes/DragCircleMode");
 export const DirectMode = require("./lib/modes/DirectModeOverride");
